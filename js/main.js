@@ -871,7 +871,6 @@ function aboutLoaded(e){
         document.getElementById('misi').addEventListener('mouseout', misiDisappear);
     }
 
-}
 // Visi Misi Section
 function visiAppear(e){
     var nextSection = document.querySelector('#organigram');
@@ -1019,21 +1018,6 @@ function misiUpAppear(e){
         }
       }, 500);
 }
-
-
-// window.addEventListener('scroll', consolePosition);
-// function consolePosition(e){
-//     var nextSection = document.querySelector('#organigram');
-//     var nextSectionPosition = nextSection.getBoundingClientRect().top;
-//     var screenHeight = window.innerHeight;
-
-//     if (nextSectionPosition < screenHeight - 1){
-//         console.log('Hello')
-//     } else{
-//         console.log('World')
-//     }
-// }
-
 
 //  bidang-template.html //
 function bidangLoaded(e){
