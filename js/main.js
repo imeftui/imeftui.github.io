@@ -870,7 +870,7 @@ function aboutLoaded(e){
         document.getElementById('visi').addEventListener('mouseout', visiDisappear);
         document.getElementById('misi').addEventListener('mouseout', misiDisappear);
     }
-
+}
 // Visi Misi Section
 function visiAppear(e){
     var nextSection = document.querySelector('#organigram');
