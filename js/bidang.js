@@ -84,7 +84,7 @@ var bidangKominfo = {
         },
         {
             nama: "Justin I. E'20",
-            foto: 'https://live.staticflickr.com/65535/50975617527_0199d98e64_b.jpg',
+            foto: 'https://imeftui.github.io/bp/kominfo/Justin%20Indrajaya_Teknik%20Elektro.png',
             display: 'static'
         },
         {
