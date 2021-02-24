@@ -59,67 +59,67 @@ var bidangKominfo = {
     namaBP: [
         {
             nama: "Nahda Nafila Biom'20",
-            foto: 'https://live.staticflickr.com/65535/50975616672_4bac3a8cf4_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975574871_f203547b96_b.jpg',
             display: 'static'
         },
         {
             nama: "Raizha R. E'20",
-            foto: 'https://live.staticflickr.com/65535/50975503276_a8f9ed4729_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975573721_1fc721707b_b.jpg',
             display: 'static'
         },
         {
             nama: "Ricky Rahman E'20",
-            foto: 'https://live.staticflickr.com/65535/50975507961_ced723e8e4_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975573351_50791ba78a_b.jpg',
             display: 'static'
         },
         {
             nama: "Syafiq M. E'20",
-            foto: 'https://live.staticflickr.com/65535/50975503276_a8f9ed4729_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975684857_a81b1892b2_b.jpg',
             display: 'static'
         },
         {
             nama: "Evelyn V. Biom'20",
-            foto: 'https://live.staticflickr.com/65535/50974818643_54a1858503_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50974888198_b17d0632b4_b.jpg',
             display: 'static'
         },
         {
             nama: "Justin I. E'20",
-            foto: 'https://imeftui.github.io/bp/kominfo/Justin%20Indrajaya_Teknik%20Elektro.png',
+            foto: 'https://live.staticflickr.com/65535/50975687107_90f2d7f5ba_b.jpg',
             display: 'static'
         },
         {
             nama: "Vianney E'20",
-            foto: 'https://live.staticflickr.com/65535/50975502821_1e8ce4c23c_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50974884508_b279663568_b.jpg',
             display: 'static'
         },
         {
             nama: "Afdalio R. E'20",
-            foto: 'https://live.staticflickr.com/65535/50975619422_06cf1cd7ac_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975576826_9707ae1a04_b.jpg',
             display: 'static'
         },
         {
             nama: "Fateen TKom'20",
-            foto: 'https://live.staticflickr.com/65535/50975618317_286fdfa58d_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975687802_6c5cbf5c8c_b.jpg',
             display: 'static'
         },
         {
             nama: "Naura K. Biom'20",
-            foto: 'https://live.staticflickr.com/65535/50975616157_5be160bbd1_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975686167_90ff2da54a_b.jpg',
             display: 'static'
         },
         {
             nama: "Andini TKom'20",
-            foto: 'https://live.staticflickr.com/65535/50974815713_638442afe6_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50974886058_4ed58517f9_b.jpg',
             display: 'static'
         },
         {
             nama: "Syifa R. E'20",
-            foto: 'https://live.staticflickr.com/65535/50975614487_974a51286a_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975572931_7bf444006e_b.jpg',
             display: 'static'
         },
         {
             nama: "M. Rifanda A. Biom'19",
-            foto: 'https://live.staticflickr.com/65535/50975617142_384069b2ba_b.jpg',
+            foto: 'https://live.staticflickr.com/65535/50975686812_c41513b822_b.jpg',
             display: 'none'
         },
         {
