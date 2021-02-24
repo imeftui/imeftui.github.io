@@ -15,7 +15,7 @@ var bidangKominfo = {
         'https://live.staticflickr.com/65535/50962557488_c4796402cf_b.jpg',
         'https://live.staticflickr.com/65535/50962557693_03027e2738_b.jpg',
         'https://live.staticflickr.com/65535/50963268196_67a08e5e33_b.jpg',
-        'https://live.staticflickr.com/65535/50962555938_82834b6e5a_h.jpg',
+        'https://live.staticflickr.com/65535/50975516086_c366729413_b.jpg',
     ],
     namaBPH: [
         {
@@ -59,67 +59,67 @@ var bidangKominfo = {
     namaBP: [
         {
             nama: "Nahda Nafila Biom'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975616672_4bac3a8cf4_b.jpg',
             display: 'static'
         },
         {
             nama: "Raizha R. E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975503276_a8f9ed4729_b.jpg',
             display: 'static'
         },
         {
             nama: "Ricky Rahman E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975507961_ced723e8e4_b.jpg',
             display: 'static'
         },
         {
             nama: "Syafiq M. E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975503276_a8f9ed4729_b.jpg',
             display: 'static'
         },
         {
             nama: "Evelyn V. Biom'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50974818643_54a1858503_b.jpg',
             display: 'static'
         },
         {
             nama: "Justin I. E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975617527_0199d98e64_b.jpg',
             display: 'static'
         },
         {
             nama: "Vianney E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975502821_1e8ce4c23c_b.jpg',
             display: 'static'
         },
         {
             nama: "Afdalio R. E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975619422_06cf1cd7ac_b.jpg',
             display: 'static'
         },
         {
             nama: "Fateen TKom'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975618317_286fdfa58d_b.jpg',
             display: 'static'
         },
         {
             nama: "Naura K. Biom'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975616157_5be160bbd1_b.jpg',
             display: 'static'
         },
         {
             nama: "Andini TKom'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50974815713_638442afe6_b.jpg',
             display: 'static'
         },
         {
             nama: "Syifa R. E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            foto: 'https://live.staticflickr.com/65535/50975614487_974a51286a_b.jpg',
             display: 'static'
         },
         {
-            nama: "",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            nama: "M. Rifanda A. Biom'19",
+            foto: 'https://live.staticflickr.com/65535/50975617142_384069b2ba_b.jpg',
             display: 'none'
         },
         {
