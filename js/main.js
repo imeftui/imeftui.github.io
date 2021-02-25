@@ -346,8 +346,49 @@ function indexLoaded(e){
                 })
             }
         }
+        if (socialMediaPosition < screenHeight / 1.4){
+            if (!(document.querySelector('.copyright-landing').classList.contains('active'))){
+                document.querySelector('.copyright-landing').classList.add('active');
+                anime({
+                    targets: '.copyright-landing',
+                    opacity: [0, 1],
+                    duration: 500,
+                    easing: 'easeOutExpo',
+                })
+            }
+        }
     })
-    
+    //COPYRIGHT MODAL
+    document.querySelector('.copyright-landing').addEventListener('click', (e)=>{
+        document.querySelector('.copyright-modal').style.display = 'flex';
+        anime.timeline({
+            easing: 'easeOutExpo',
+        }).add({
+            targets: '.copyright-modal',
+            opacity: [0, 1],
+            duration: 500,
+        }).add({
+            targets: '.copyright-modal h1',
+            opacity: [0, 1],
+            delay: anime.stagger(500)
+        }).add({
+            targets: '.copyright-modal p',
+            opacity: [0, 1],
+            delay: anime.stagger(200)
+        })
+    })
+    document.querySelector('.copyright-modal').addEventListener('click', (e)=>{
+        anime({
+            targets: '.copyright-modal',
+            opacity: [1, 0],
+            easing: 'easeOutQuad',
+            duration: 400,
+            complete: () => {
+                document.querySelector('.copyright-modal').style.display = 'none';
+            }
+        })
+    })
+
     //LANDING
     var logoMatahari = document.querySelector('.matahari')
     var descMatahari = document.querySelector('.logo-desc-matahari')
