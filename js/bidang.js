@@ -31,7 +31,7 @@ var bidangKominfo = {
             display: 'block',
         },
         {
-            nama: 'Jelita Indri',
+            nama: 'Maharani Indri',
             jabatan: 'Wakil Kepala Bidang',
             foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/jeli.png',
             display: 'block',
