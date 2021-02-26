@@ -1998,6 +1998,11 @@ function ebookLoaded(e){
             }
         })
     })
+    document.querySelectorAll('.ebook-link-container').forEach((a)=>{
+        a.querySelectorAll('a').forEach((b)=>{
+            b.target = '_blank';
+        })
+    })
     document.querySelectorAll('.matkul-ebook').forEach((a)=>{
         a.textContent = a.textContent.toUpperCase();
     })
