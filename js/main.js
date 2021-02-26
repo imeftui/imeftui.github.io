@@ -1998,7 +1998,11 @@ function ebookLoaded(e){
             }
         })
     })
+    document.querySelectorAll('.matkul-ebook').forEach((a)=>{
+        a.textContent = a.textContent.toUpperCase();
+    })
 }
+
 //Contact Us
 function contactusLoaded(e) {
     anime.timeline({
