@@ -118,7 +118,7 @@ var bidangKominfo = {
             display: 'static'
         },
         {
-            nama: "M. Rifanda A. Biom'19",
+            nama: "M. Rifanda A. Biom'20",
             foto: 'https://live.staticflickr.com/65535/50975686812_c41513b822_b.jpg',
             display: 'static'
         },
