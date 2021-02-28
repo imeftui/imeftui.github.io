@@ -1,3 +1,6 @@
+//Clean Fix
+
+
 //Nav animation
 var navAnimate = {
     targets: 'nav ul li',
@@ -159,6 +162,7 @@ function searchFunctionResult(){
 
 //index.html
 function indexLoaded(e){
+    document.querySelector('body').style.color = 'transparent';
     //SCROLL ANIMATION
     if (window.innerWidth  < 768){
         anime.timeline({
