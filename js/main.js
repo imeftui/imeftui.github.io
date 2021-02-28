@@ -160,9 +160,9 @@ function searchFunctionResult(){
     localStorage.searchText = document.querySelector('.search-txt-result').value;
 }
 
+document.querySelector('body').style.color = 'transparent';
 //index.html
 function indexLoaded(e){
-    document.querySelector('body').style.color = 'transparent';
     //SCROLL ANIMATION
     if (window.innerWidth  < 768){
         anime.timeline({
