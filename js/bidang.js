@@ -878,7 +878,7 @@ var bidangPengmas = {
         {
             nama: "Athaya Z.",
             jabatan: 'Wakil Kepala Bidang',
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/athaya.png',
+            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/athaya-1.png',
             display: 'block',
         },
         {
