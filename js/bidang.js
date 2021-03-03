@@ -347,16 +347,6 @@ var bidangKastrat = {
             display: 'static'
         },
         {
-            nama: "Nayaka Arya E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
-            display: 'static'
-        },
-        {
-            nama: "M. Haris E'20",
-            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
-            display: 'static'
-        },
-        {
             nama: "M. Rafli Biom'20",
             foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
             display: 'static'
@@ -421,6 +411,16 @@ var bidangKastrat = {
             foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
             display: 'none'
         },
+        {
+            nama: "",
+            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            display: 'none'
+        },
+        {
+            nama: "",
+            foto: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/profile-empty.png',
+            display: 'none'
+        },
     ]
 }
 var bidangKewirus = {
@@ -428,7 +428,7 @@ var bidangKewirus = {
     bidangNickname: 'kewirus',
     deskripsiBidang: 'Bidang yang bertanggung jawab untuk mengatur alir keuangan dan mencari pemasukan dana untuk IME FTUI serta menumbuhkan semangat kewirausahaan warga Departemen Teknik Elektro.',
     logoBidang: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/02/kewirus.png',
-    programKerja: 'Audit Keuangan, Pengajuan Dana, Pembagian Untung Rugi, TRIBUTION, El Mart',
+    programKerja: 'Audit Keuangan, Pengajuan Dana, Pembagian Untung Rugi, TRIBUTION, ELEMENT',
     videoBidang: 'https://www.youtube.com/embed/xSAp63prZj0',
     fotoBidang: [
         'https://live.staticflickr.com/65535/50985302468_aa6b2a4437_h.jpg',
