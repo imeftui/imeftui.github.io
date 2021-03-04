@@ -97,6 +97,7 @@ a{
 .nav-space{
     height: 10vh;
 }
+
 /* remove scrollbarr */
 /* body::-webkit-scrollbar {
     display: none;
@@ -105,6 +106,42 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 } */
+
+.container{
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto
+}
+@media (min-width:576px){
+    .container{
+        max-width:540px
+    }
+}
+@media (min-width:768px){
+    .container{
+        max-width:720px
+    }
+}
+@media (min-width:992px){
+    .container{
+        max-width:960px
+    }
+}
+@media (min-width:1200px){
+    .container{
+        max-width:1140px
+    }
+}
+.text-center{
+    text-align:center!important;
+}
+.center-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /* Costumize Scroll bar */
 ::-webkit-scrollbar {
@@ -339,12 +376,6 @@ body {
     background-color: transparent;
     cursor: pointer;
 }
-.center-block{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .landing-title-grid{
     display:grid;
     height: 55px;
@@ -1146,7 +1177,7 @@ body {
 }
 @media only screen and (max-height: 700px){
     .contact-title{
-        margin-bottom: 3rem;s
+        margin-bottom: 3rem;
     }
 }
 @media only screen and (max-width: 768px){
@@ -2279,6 +2310,15 @@ body {
 @media only screen and (max-width: 768px){
     .post-container{
         width: 90%;
+    }
+    .post-meta{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .post-title{
+        font-size: 36px;
     }
     .post-excerpt{
         font-size: 24px;
