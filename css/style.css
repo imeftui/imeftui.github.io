@@ -2325,6 +2325,9 @@ body {
     .post-container{
         width: 90%;
     }
+    .post-text{
+        font-size: 18px;
+    }
     .post-meta{
         display: flex;
         flex-direction: column;
