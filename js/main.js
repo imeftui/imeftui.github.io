@@ -1803,8 +1803,8 @@ function diktatLoaded(e){
     })
 
     document.querySelectorAll('.diktat-link-header').forEach((a) => {
-        if (a.classList.contains('uts-ganjil-2021')){
-            diktatRefresh(utsGanjil21, a)
+        if (a.classList.contains('uts-genap-2021')){
+            diktatRefresh(utsGenap21, a)
         }
         if (a.classList.contains('uts-ganjil-2020')){
             diktatRefresh(utsGanjil20, a)
@@ -1861,8 +1861,8 @@ function diktatLoaded(e){
     
     document.querySelectorAll('.diktat-link-header').forEach((a) => {
         a.addEventListener('click', () => {
-            if (a.classList.contains('uts-ganjil-2021')){
-                diktatBookRefresh(utsGanjil21)
+            if (a.classList.contains('uts-genap-2021')){
+                diktatBookRefresh(utsGenap21)
             }
             if (a.classList.contains('uts-ganjil-2020')){
                 diktatBookRefresh(utsGanjil20)

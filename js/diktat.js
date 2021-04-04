@@ -1,4 +1,4 @@
-var utsGanjil21 = [
+var utsGenap21 = [
     {
         title: 'Aljabar Linear',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
