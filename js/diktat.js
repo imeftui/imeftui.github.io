@@ -1,3 +1,95 @@
+var utsGanjil21 = [
+    {
+        title: 'Aljabar Linear',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1OGR6gdj4O19OqmLeoSyXmScJKH1-MXQc/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Analisis Vektor dan Bilangan Kompleks',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1LZxCUG7RCz-f7hrpx3psXczp5JTuRd8V/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Dasar Sistem Digital',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1La3haS1dTx55BzwVvsy809aONA6EW5IV/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Elektromagnetika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1GWd_oDz9fODUvCjY2ly_ArGEWusUbd-6/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Listrik MGO',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1GWd_oDz9fODUvCjY2ly_ArGEWusUbd-6/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Mekanika dan Panas',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1N-5uWzRTT-sMlcKKFZKPBXZou3Ut-F75/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'MPKT',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1StQUnIuyx8IeUOcfhCzl77K4rKCUDzNM/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Probabilitas dan Proses Stokastik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1LbyWQrzPZN_w9mAlCn5vHRVTdxfagIFW/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Sinyal dan Sistem',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1nIGarqj7WEWh9fCEKrreMoMVYbqBtUz2/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Listrik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1HW--Nn7LcJ-Dw_Q6gHLPXvDCpobOueAv/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+]
 var utsGanjil20 = [ 
     {
         title: 'Aljabar Linear',
