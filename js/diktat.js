@@ -60,10 +60,10 @@ var utsGanjil21 = [
         display: 'block',
     },
     {
-        title: '',
-        img: '',
-        link: '',
-        display: 'none',
+        title: 'Rangkaian Elektronika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/04/161553.jpg',
+        link: 'https://drive.google.com/file/d/1-WNO6JyqREheioDks9JKp3cylVhX34M-/view?usp=sharing',
+        display: 'block',
     },
     {
         title: '',
