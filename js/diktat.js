@@ -12,12 +12,6 @@ var utsGanjil21 = [
         display: 'block',
     },
     {
-        title: '',
-        img: '',
-        link: '',
-        display: 'none',
-    },
-    {
         title: 'Elektromagnetika',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
         link: 'https://drive.google.com/file/d/1G1khACeyFLW51d-ClkoAysZKnEcer6jK/view?usp=sharing',
@@ -30,24 +24,6 @@ var utsGanjil21 = [
         display: 'block',
     },
     {
-        title: '',
-        img: '',
-        link: '',
-        display: 'none',
-    },
-    {
-        title: '',
-        img: '',
-        link: '',
-        display: 'none',
-    },
-    {
-        title: '',
-        img: '',
-        link: '',
-        display: 'none',
-    },
-    {
         title: 'Rangkaian Listrik',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
         link: 'https://drive.google.com/file/d/1VXhdu7OptL1RbIiBZ0lOaRmkCsuM6GFX/view?usp=sharing',
@@ -57,18 +33,42 @@ var utsGanjil21 = [
         title: 'Rangkaian Listrik (Tekkom, Biomed)',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
         link: 'https://drive.google.com/file/d/1VXhdu7OptL1RbIiBZ0lOaRmkCsuM6GFX/view?usp=sharing',
-        display: 'none',
+        display: 'block',
     },
     {
         title: 'Kalkulus',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
         link: 'https://drive.google.com/file/d/1PUv3pvRAfpOeiFmBU36Ry6D5x7eaNH2l/view?usp=sharing',
-        display: 'none',
+        display: 'block',
     },
     {
         title: 'Kimia Dasar',
         img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
         link: 'https://drive.google.com/file/d/1JQXiMr8hPsecu_ifvb7QA1T_q-kkkJH0/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
         display: 'none',
     },
     {
