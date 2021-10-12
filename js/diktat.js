@@ -1,3 +1,187 @@
+var utsGanjil21 = [
+    {
+        title: 'Aljabar Linear',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1lSX6DbaPSWJx4HasssZrHcaPO3HJ19ih/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Matematika Teknik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1-W0xoOuB2IvdVubtaOtAT48TeBHk26JA/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: 'Elektromagnetika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1G1khACeyFLW51d-ClkoAysZKnEcer6jK/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Listrik MGO',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1BbwRa9p7o1Fbw7oTS2caGrtMQux1XruM/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: 'Rangkaian Listrik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1VXhdu7OptL1RbIiBZ0lOaRmkCsuM6GFX/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Listrik (Tekkom, Biomed)',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1VXhdu7OptL1RbIiBZ0lOaRmkCsuM6GFX/view?usp=sharing',
+        display: 'none',
+    },
+    {
+        title: 'Kalkulus',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1PUv3pvRAfpOeiFmBU36Ry6D5x7eaNH2l/view?usp=sharing',
+        display: 'none',
+    },
+    {
+        title: 'Kimia Dasar',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/Cover-diktat-fix-bgt-ga-boong.jpg',
+        link: 'https://drive.google.com/file/d/1JQXiMr8hPsecu_ifvb7QA1T_q-kkkJH0/view?usp=sharing',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+]
+var uasGenap21 = [
+    {
+        title: 'Aljabar Linear',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1zCD-thUaq6TcmMa5vs0_bNdOIm4dzQZ2/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Analisis Vektor dan Bilangan Kompleks',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1W094C_mZ0bv5JtIApf9mhT3SZse2gMaR/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Dasar Sistem Digital',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1iTQEWNviMWn5MVs6mqiXFTWM4qXE_sBE/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Elektromagnetika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1tI8aQbc0npelnu4DLgnXe7qyCE9EasRM/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Listrik MGO',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1dlb-LKGZ8M83GaspB8Q8sd4CD0vM64vP/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Mekanika dan Panas',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1sKlwD_ral0sFhE-oS7EPR0anWcXZXZLa/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Probabilitas dan Proses Stokastik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/19iaY9W4G-nH6XuM1WRSR71agjlAWqU7-/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Sinyal dan Sistem',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1h2L7tGjyJClkcZRN2nOMpvoJg7-ACm_0/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Listrik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1lGfP-3-6oFrgVZOqBgdKPG7J1BXgXqkR/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Elektronika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/10/81086.jpg',
+        link: 'https://drive.google.com/file/d/1gY1ucuTE7TJ1eRX5s2lAxD9-idnCgRlv/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+]
 var utsGenap21 = [
     {
         title: 'Aljabar Linear',
