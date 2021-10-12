@@ -1867,6 +1867,12 @@ function diktatLoaded(e){
     
     document.querySelectorAll('.diktat-link-header').forEach((a) => {
         a.addEventListener('click', () => {
+            if (a.classList.contains('uts-ganjil-2021')){
+                diktatBookRefresh(utsGanjil21)
+            }
+            if (a.classList.contains('uas-genap-2021')){
+                diktatBookRefresh(uasGenap21)
+            }
             if (a.classList.contains('uts-genap-2021')){
                 diktatBookRefresh(utsGenap21)
             }
