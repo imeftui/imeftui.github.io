@@ -1803,6 +1803,12 @@ function diktatLoaded(e){
     })
 
     document.querySelectorAll('.diktat-link-header').forEach((a) => {
+        if (a.classList.contains('uts-ganjil-2021')){
+            diktatRefresh(utsGanjil21, a)
+        }
+        if (a.classList.contains('uas-genap-2021')){
+            diktatRefresh(uasGenap21, a)
+        }
         if (a.classList.contains('uts-genap-2021')){
             diktatRefresh(utsGenap21, a)
         }
