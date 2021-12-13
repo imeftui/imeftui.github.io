@@ -1,3 +1,95 @@
+var uasGanjil21 = [
+    {
+        title: 'Aljabar Linear',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/114vcEG9D2IkrwH2vy-yE3c42sNpEakIC/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Dasar Sistem Digital',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1XyiTkoQEy-dOqjHog8IPlqQo0uxnc4gm/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Matematika Teknik',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1jUpRwJADr1Vnsu0pEch9ITALuO-YC3-d/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Elektromagnetika',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1yLoiDy8_Y2Fwu6p3qSgST3RCfrTgYEIa/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Fisika Listrik MGO',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1-xtuthGYGogJS5fPmC15uxRtFdsAGbfR/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Listrik 2',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/16lxpl1hIdtfk1kRT98cw4yZo2ogYLvPu/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Rangkaian Listrik (Tekkom, Biomed)',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1GPEWCB71pjn5M_DjrR8eRDwHYUCn_ZD9/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Kalkulus',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/13GEWTJ7gRUGyYjomLG146RID_kqlv_Fu/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: 'Kimia Dasar',
+        img: 'https://ime.eng.ui.ac.id/wp-content/uploads/84/2021/12/120476.jpg',
+        link: 'https://drive.google.com/file/d/1u0tyXoHIIFRjhwi5HtrGDjdsZKyYN_Fn/view?usp=sharing',
+        display: 'block',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+    {
+        title: '',
+        img: '',
+        link: '',
+        display: 'none',
+    },
+]
 var utsGanjil21 = [
     {
         title: 'Aljabar Linear',
